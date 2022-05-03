@@ -1,0 +1,11 @@
+.element{
+    width: 100px;
+    height: 100px;
+    top: 400px;
+    resize: both;
+    overflow: auto;
+    left: 300px;
+    border-radius: 50%;
+    background-color: rgb(245, 168, 52);
+    position: absolute;
+}
